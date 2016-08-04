@@ -1,0 +1,29 @@
+_repo: The-Boss-and-the-Machine--A-Chronicle-of-the-Politicians-and-Party-Organization_3040
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Orth, Samuel Peter
+    birthdate: 1873
+    deathdate: 1922
+    gutenberg_agent_id: '1098'
+    url: http://www.gutenberg.org/2009/agents/1098
+    wikipedia: http://ech.case.edu/ech-cgi/article.pl?id=OSP
+description: Chronicles of America series; v. 43
+gutenberg_bookshelf:
+- United States
+- Children's History
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'Political parties -- United States'
+- !lcc 'E151'
+- GITenberg
+title: 'The Boss and the Machine: A Chronicle of the Politicians and Party Organization'
+url: http://www.gutenberg.org/ebooks/3040
