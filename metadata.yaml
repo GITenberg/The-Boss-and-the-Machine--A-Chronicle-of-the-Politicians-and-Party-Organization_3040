@@ -1,5 +1,8 @@
 _repo: The-Boss-and-the-Machine--A-Chronicle-of-the-Politicians-and-Party-Organization_3040
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Orth, Samuel Peter
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1098
     wikipedia: http://ech.case.edu/ech-cgi/article.pl?id=OSP
 description: Chronicles of America series; v. 43
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3040#The-Boss-and-the-Machine--A-Chronicle-of-the-Politicians-and-Party-Organization
 gutenberg_bookshelf:
 - United States
 - Children's History
